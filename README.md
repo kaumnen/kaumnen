@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Windows Forms
+- 🔭 I’m currently working on Postgres
 - 🌱 Also learning .NET tech
 - 👯 Looking to collaborate in open-source world
 - 💬 Ask me about anything related to tech
