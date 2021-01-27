@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on SQL tech
-- 🌱 Also learning .NET tech
+- 🔭 I’m currently working on WPF
+- 🌱 Also learning .NET tech, REST APIs, SQL
 - 👯 Looking to collaborate in open-source world
 - 💬 Ask me about anything related to tech
 - 📫 How to reach me: email, linkedin
