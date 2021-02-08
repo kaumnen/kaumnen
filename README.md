@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on WPF
+- 🔭 I’m currently working on WPF app with MvvmCross
 - 🌱 Also learning .NET tech, REST APIs, SQL
 - 👯 Looking to collaborate in open-source world
 - 💬 Ask me about anything related to tech
