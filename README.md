@@ -8,4 +8,4 @@
 - 😄 Second year CS Student [@ITS](https://its.edu.rs)
 - ⚡ Former python developer
 
-![Awesome GIF](https://cdn-images-1.medium.com/max/1600/1*g3zcRSjUu50p7_1brc9c2Q.gif)
+![Awesome GIF](https://media.giphy.com/media/1BfRG8cK5SPOer97aK/giphy-downsized.gif)
