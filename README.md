@@ -7,5 +7,3 @@
 - 📫 How to reach me: email, linkedin
 - 😄 Second year CS Student [@ITS](https://its.edu.rs)
 - ⚡ Former python developer
-
-![Awesome GIF](https://media.giphy.com/media/1BfRG8cK5SPOer97aK/giphy-downsized.gif)
