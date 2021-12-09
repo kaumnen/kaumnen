@@ -8,5 +8,6 @@
 latest blog post:
 - [How to configure verified GitHub commits?](https://kaumnen.tech/how-to-configure-verified-github-commits)
 -----------------------------------
+Profile views since `Dec 09, 2021`:
 
 ![](https://komarev.com/ghpvc/?username=kaumnen)
