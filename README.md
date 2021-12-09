@@ -7,3 +7,6 @@
 -----------------------------------
 latest blog post:
 - [How to configure verified GitHub commits?](https://kaumnen.tech/how-to-configure-verified-github-commits)
+-----------------------------------
+
+![](https://komarev.com/ghpvc/?username=kaumnen)
