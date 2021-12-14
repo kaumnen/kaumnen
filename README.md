@@ -6,11 +6,11 @@
 - 😄 Third-year CS Student [@ITS](https://its.edu.rs)
 -----------------------------------
 ### 2️⃣ Latest Activity
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
 
-[![Metrics](https://github.com/kaumnen/kaumnen/actions/workflows/metrics.yml/badge.svg)](https://github.com/kaumnen/kaumnen/actions/workflows/metrics.yml)
+
+[![Update README](https://github.com/kaumnen/kaumnen/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/kaumnen/kaumnen/actions/workflows/update-readme.yml)
 -----------------------------------
 ![Metrics](https://github.com/kaumnen/kaumnen/blob/main/github-metrics.svg)
 
