@@ -14,8 +14,6 @@
 5. ⭐ Starred [facebook/react-native](https://github.com/facebook/react-native)
 <!--RECENT_ACTIVITY:end-->
 
-
-
 [![Recent Activity](https://github.com/kaumnen/kaumnen/actions/workflows/recent-activity.config.yml/badge.svg)](https://github.com/kaumnen/kaumnen/actions/workflows/recent-activity.config.yml)
 -----------------------------------
 ![Metrics](https://github.com/kaumnen/kaumnen/blob/main/github-metrics.svg)
