@@ -10,6 +10,9 @@
 
 <!--END_SECTION:activity-->
 -----------------------------------
+### 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://github.com/kaumnen/kaumnen/blob/main/github-metrics.svg)
+-----------------------------------
 ### Latest blog posts:
 - [How to configure verified GitHub commits?](https://kaumnen.tech/how-to-configure-verified-github-commits)
 - [Introduction to Data Structures](https://kaumnen.tech/introduction-to-data-structures)
