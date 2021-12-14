@@ -10,7 +10,7 @@
 
 <!--END_SECTION:activity-->
 -----------------------------------
-### 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+### Latest GitHub Metrics
 ![Metrics](https://github.com/kaumnen/kaumnen/blob/main/github-metrics.svg)
 -----------------------------------
 ### Latest blog posts:
