@@ -5,6 +5,10 @@
 - 📫 How to reach me: [E-Mail](mailto:komnenovic@pm.me), [LinkedIn](https://www.linkedin.com/in/komnenovic/)
 - 😄 Third-year CS Student [@ITS](https://its.edu.rs)
 -----------------------------------
+<!--START_SECTION:activity-->
+
+
+-----------------------------------
 latest blog posts:
 - [How to configure verified GitHub commits?](https://kaumnen.tech/how-to-configure-verified-github-commits)
 - [Introduction to Data Structures](https://kaumnen.tech/introduction-to-data-structures)
