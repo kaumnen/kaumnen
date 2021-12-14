@@ -16,7 +16,7 @@
 
 
 
-[![Update README](https://github.com/kaumnen/kaumnen/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/kaumnen/kaumnen/actions/workflows/update-readme.yml)
+[![Recent Activity](https://github.com/kaumnen/kaumnen/actions/workflows/recent-activity.config.yml/badge.svg)](https://github.com/kaumnen/kaumnen/actions/workflows/recent-activity.config.yml)
 -----------------------------------
 ![Metrics](https://github.com/kaumnen/kaumnen/blob/main/github-metrics.svg)
 
