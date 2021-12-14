@@ -1,4 +1,4 @@
-### 1️⃣ Hi there 👋
+### 1️⃣ Hey there 👋
 
 - 👯 Looking to collaborate in the open-source world
 - 💬 0110100001100101011011000110110001101111001000000111010001101000011001010111001001100101
@@ -9,6 +9,8 @@
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
+
+[![Metrics](https://github.com/kaumnen/kaumnen/actions/workflows/metrics.yml/badge.svg)](https://github.com/kaumnen/kaumnen/actions/workflows/metrics.yml)
 -----------------------------------
 ![Metrics](https://github.com/kaumnen/kaumnen/blob/main/github-metrics.svg)
 
