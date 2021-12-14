@@ -11,6 +11,8 @@
 <!--END_SECTION:activity-->
 -----------------------------------
 ![Metrics](https://github.com/kaumnen/kaumnen/blob/main/github-metrics.svg)
+
+[![Metrics](https://github.com/kaumnen/kaumnen/actions/workflows/metrics.yml/badge.svg)](https://github.com/kaumnen/kaumnen/actions/workflows/metrics.yml)
 -----------------------------------
 ### 3️⃣ Latest blog posts:
 - [How to configure verified GitHub commits?](https://kaumnen.tech/how-to-configure-verified-github-commits)
