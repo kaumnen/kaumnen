@@ -6,7 +6,7 @@
 - 😄 Third-year CS Student [@ITS](https://its.edu.rs)
 -----------------------------------
 ### 📊 Latest Activity
-
+<!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 2. 🔱 Forked [kaumnen/Raymo111](https://github.com/kaumnen/Raymo111) from [Raymo111/Raymo111](https://github.com/Raymo111/Raymo111)
 3. 🔱 Forked [kaumnen/jamesgeorge007](https://github.com/kaumnen/jamesgeorge007) from [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
