@@ -1,4 +1,4 @@
-name: Recent Activity
+name: Latest Activity
 
 on:
   schedule:
