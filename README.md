@@ -23,6 +23,7 @@
 
 -----------------------------------
 ### 📝 Latest blog posts:
+- [Don't fully trust AI in dev work! /yet](https://blog.akom.me/dont-fully-trust-ai-in-dev-work-yet)
 - [How to configure verified GitHub commits?](https://kaumnen.tech/how-to-configure-verified-github-commits)
 - [Introduction to Data Structures](https://kaumnen.tech/introduction-to-data-structures)
 - [How to install Google Play Store on WSA - Windows subsystem for Android](https://kaumnen.tech/how-to-install-google-play-store-on-wsa-windows-subsystem-android)
