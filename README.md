@@ -7,11 +7,11 @@
 -----------------------------------
 ### 📊 Latest Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#6](https://github.com/kaumnen/HiringApp/pull/6) in [kaumnen/HiringApp](https://github.com/kaumnen/HiringApp)
-2. ✔️ Closed issue [#2](https://github.com/kaumnen/HiringApp/issues/2) in [kaumnen/HiringApp](https://github.com/kaumnen/HiringApp)
-3. 💪 Opened PR [#6](https://github.com/kaumnen/HiringApp/pull/6) in [kaumnen/HiringApp](https://github.com/kaumnen/HiringApp)
-4. ⭐ Starred [themesberg/flowbite](https://github.com/themesberg/flowbite)
-5. 📔 Created new repository [kaumnen/RedTweet](https://github.com/kaumnen/RedTweet)
+1. 🎉 Merged PR [#7](https://github.com/kaumnen/HiringApp/pull/7) in [kaumnen/HiringApp](https://github.com/kaumnen/HiringApp)
+2. 💪 Opened PR [#7](https://github.com/kaumnen/HiringApp/pull/7) in [kaumnen/HiringApp](https://github.com/kaumnen/HiringApp)
+3. 🎉 Merged PR [#6](https://github.com/kaumnen/HiringApp/pull/6) in [kaumnen/HiringApp](https://github.com/kaumnen/HiringApp)
+4. ✔️ Closed issue [#2](https://github.com/kaumnen/HiringApp/issues/2) in [kaumnen/HiringApp](https://github.com/kaumnen/HiringApp)
+5. 💪 Opened PR [#6](https://github.com/kaumnen/HiringApp/pull/6) in [kaumnen/HiringApp](https://github.com/kaumnen/HiringApp)
 <!--RECENT_ACTIVITY:end-->
 
 [![Latest Activity](https://github.com/kaumnen/kaumnen/actions/workflows/recent-activity.config.yml/badge.svg)](https://github.com/kaumnen/kaumnen/actions/workflows/recent-activity.config.yml)
