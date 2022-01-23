@@ -7,11 +7,11 @@
 -----------------------------------
 ### 📊 Latest Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [kaumnen/RedTweet](https://github.com/kaumnen/RedTweet)
-2. 📔 Created new repository [kaumnen/.github](https://github.com/kaumnen/.github)
-3. ⭐ Starred [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🔱 Forked [kaumnen/Raymo111](https://github.com/kaumnen/Raymo111) from [Raymo111/Raymo111](https://github.com/Raymo111/Raymo111)
-5. 🔱 Forked [kaumnen/jamesgeorge007](https://github.com/kaumnen/jamesgeorge007) from [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
+1. ⭐ Starred [themesberg/flowbite](https://github.com/themesberg/flowbite)
+2. 📔 Created new repository [kaumnen/RedTweet](https://github.com/kaumnen/RedTweet)
+3. 📔 Created new repository [kaumnen/.github](https://github.com/kaumnen/.github)
+4. ⭐ Starred [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. 🔱 Forked [kaumnen/Raymo111](https://github.com/kaumnen/Raymo111) from [Raymo111/Raymo111](https://github.com/Raymo111/Raymo111)
 <!--RECENT_ACTIVITY:end-->
 
 [![Latest Activity](https://github.com/kaumnen/kaumnen/actions/workflows/recent-activity.config.yml/badge.svg)](https://github.com/kaumnen/kaumnen/actions/workflows/recent-activity.config.yml)
