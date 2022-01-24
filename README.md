@@ -7,11 +7,11 @@
 -----------------------------------
 ### 📊 Latest Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1](https://github.com/kaumnen/HiringApp/issues/1) in [kaumnen/HiringApp](https://github.com/kaumnen/HiringApp)
-2. 🎉 Merged PR [#8](https://github.com/kaumnen/HiringApp/pull/8) in [kaumnen/HiringApp](https://github.com/kaumnen/HiringApp)
-3. 💪 Opened PR [#8](https://github.com/kaumnen/HiringApp/pull/8) in [kaumnen/HiringApp](https://github.com/kaumnen/HiringApp)
-4. 🎉 Merged PR [#7](https://github.com/kaumnen/HiringApp/pull/7) in [kaumnen/HiringApp](https://github.com/kaumnen/HiringApp)
-5. 💪 Opened PR [#7](https://github.com/kaumnen/HiringApp/pull/7) in [kaumnen/HiringApp](https://github.com/kaumnen/HiringApp)
+1. 🎉 Merged PR [#9](https://github.com/kaumnen/HiringApp/pull/9) in [kaumnen/HiringApp](https://github.com/kaumnen/HiringApp)
+2. ✔️ Closed issue [#4](https://github.com/kaumnen/HiringApp/issues/4) in [kaumnen/HiringApp](https://github.com/kaumnen/HiringApp)
+3. 💪 Opened PR [#9](https://github.com/kaumnen/HiringApp/pull/9) in [kaumnen/HiringApp](https://github.com/kaumnen/HiringApp)
+4. ✔️ Closed issue [#1](https://github.com/kaumnen/HiringApp/issues/1) in [kaumnen/HiringApp](https://github.com/kaumnen/HiringApp)
+5. 🎉 Merged PR [#8](https://github.com/kaumnen/HiringApp/pull/8) in [kaumnen/HiringApp](https://github.com/kaumnen/HiringApp)
 <!--RECENT_ACTIVITY:end-->
 
 [![Latest Activity](https://github.com/kaumnen/kaumnen/actions/workflows/recent-activity.config.yml/badge.svg)](https://github.com/kaumnen/kaumnen/actions/workflows/recent-activity.config.yml)
