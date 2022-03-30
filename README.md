@@ -7,11 +7,11 @@
 -----------------------------------
 ### 📊 Latest Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#267](https://github.com/markodenic/awesome-tech-blogs/pull/267) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-2. 🔱 Forked [kaumnen/awesome-tech-blogs](https://github.com/kaumnen/awesome-tech-blogs) from [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+1. ⭐ Starred [lynnlangit/learning-quantum](https://github.com/lynnlangit/learning-quantum)
+2. 💪 Opened PR [#267](https://github.com/markodenic/awesome-tech-blogs/pull/267) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
 3. 🔱 Forked [kaumnen/awesome-tech-blogs](https://github.com/kaumnen/awesome-tech-blogs) from [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-4. 🔱 Forked [kaumnen/MagiskOnWSA](https://github.com/kaumnen/MagiskOnWSA) from [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA)
-5. 🎉 Merged PR [#12](https://github.com/kaumnen/HiringApp/pull/12) in [kaumnen/HiringApp](https://github.com/kaumnen/HiringApp)
+4. 🔱 Forked [kaumnen/awesome-tech-blogs](https://github.com/kaumnen/awesome-tech-blogs) from [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+5. 🔱 Forked [kaumnen/MagiskOnWSA](https://github.com/kaumnen/MagiskOnWSA) from [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA)
 <!--RECENT_ACTIVITY:end-->
 
 [![Latest Activity](https://github.com/kaumnen/kaumnen/actions/workflows/recent-activity.config.yml/badge.svg)](https://github.com/kaumnen/kaumnen/actions/workflows/recent-activity.config.yml)
