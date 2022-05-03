@@ -8,11 +8,11 @@
 -----------------------------------
 ### 📊 Latest Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/kaumnen/url-shortener-backend/pull/1) in [kaumnen/url-shortener-backend](https://github.com/kaumnen/url-shortener-backend)
-2. ⭐ Starred [lynnlangit/learning-quantum](https://github.com/lynnlangit/learning-quantum)
-3. 💪 Opened PR [#267](https://github.com/markodenic/awesome-tech-blogs/pull/267) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-4. 🔱 Forked [kaumnen/awesome-tech-blogs](https://github.com/kaumnen/awesome-tech-blogs) from [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-5. 🔱 Forked [kaumnen/awesome-tech-blogs](https://github.com/kaumnen/awesome-tech-blogs) from [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+1. 💪 Opened PR [#1302](https://github.com/education/GitHubGraduation-2022/pull/1302) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
+2. 🔱 Forked [kaumnen/GitHubGraduation-2022](https://github.com/kaumnen/GitHubGraduation-2022) from [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
+3. 🎉 Merged PR [#1](https://github.com/kaumnen/url-shortener-backend/pull/1) in [kaumnen/url-shortener-backend](https://github.com/kaumnen/url-shortener-backend)
+4. ⭐ Starred [lynnlangit/learning-quantum](https://github.com/lynnlangit/learning-quantum)
+5. 💪 Opened PR [#267](https://github.com/markodenic/awesome-tech-blogs/pull/267) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
 <!--RECENT_ACTIVITY:end-->
 
 [![Latest Activity](https://github.com/kaumnen/kaumnen/actions/workflows/recent-activity.config.yml/badge.svg)](https://github.com/kaumnen/kaumnen/actions/workflows/recent-activity.config.yml)
