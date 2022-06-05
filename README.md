@@ -8,11 +8,11 @@
 -----------------------------------
 ### 📊 Latest Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1302](https://github.com/education/GitHubGraduation-2022/pull/1302) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
-2. 🔱 Forked [kaumnen/GitHubGraduation-2022](https://github.com/kaumnen/GitHubGraduation-2022) from [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
-3. 🎉 Merged PR [#1](https://github.com/kaumnen/url-shortener-backend/pull/1) in [kaumnen/url-shortener-backend](https://github.com/kaumnen/url-shortener-backend)
-4. ⭐ Starred [lynnlangit/learning-quantum](https://github.com/lynnlangit/learning-quantum)
-5. 💪 Opened PR [#267](https://github.com/markodenic/awesome-tech-blogs/pull/267) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+1. ⭐ Starred [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+2. 💪 Opened PR [#1302](https://github.com/education/GitHubGraduation-2022/pull/1302) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
+3. 🔱 Forked [kaumnen/GitHubGraduation-2022](https://github.com/kaumnen/GitHubGraduation-2022) from [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
+4. 🎉 Merged PR [#1](https://github.com/kaumnen/url-shortener-backend/pull/1) in [kaumnen/url-shortener-backend](https://github.com/kaumnen/url-shortener-backend)
+5. ⭐ Starred [lynnlangit/learning-quantum](https://github.com/lynnlangit/learning-quantum)
 <!--RECENT_ACTIVITY:end-->
 
 [![Latest Activity](https://github.com/kaumnen/kaumnen/actions/workflows/recent-activity.config.yml/badge.svg)](https://github.com/kaumnen/kaumnen/actions/workflows/recent-activity.config.yml)
