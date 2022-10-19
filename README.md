@@ -8,7 +8,7 @@
 -----------------------------------
 ### 📊 Latest Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+1. ⭐ Starred [AmbiML/sparrow-manifest](https://github.com/AmbiML/sparrow-manifest)
 2. 💪 Opened PR [#1302](https://github.com/education/GitHubGraduation-2022/pull/1302) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
 3. 🔱 Forked [kaumnen/GitHubGraduation-2022](https://github.com/kaumnen/GitHubGraduation-2022) from [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
 4. 🎉 Merged PR [#1](https://github.com/kaumnen/url-shortener-backend/pull/1) in [kaumnen/url-shortener-backend](https://github.com/kaumnen/url-shortener-backend)
