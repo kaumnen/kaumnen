@@ -1,10 +1,7 @@
 ### 🖥️ Hey there!
 
-- 👯 Looking to collaborate in the open-source world
-- 💬 0110100001100101011011000110110001101111001000000111010001101000011001010111001001100101
-- ⚡Currently learning backend via NodeJS along with some cloud tech
-- 📫 How to reach me: [E-Mail](mailto:komnenovic@pm.me), [LinkedIn](https://www.linkedin.com/in/komnenovic/)
-- 😄 Final year CS Student [@ITS](https://its.edu.rs)
+- ⚡Currently learning backend via NodeJS along with some cloud tech and systems
+- 📫 How to reach me: [E-Mail](mailto:komnenovic@pm.me), [LinkedIn](https://www.linkedin.com/in/kaumnen/)
 -----------------------------------
 ### 📊 Latest Activity
 <!--RECENT_ACTIVITY:start-->
