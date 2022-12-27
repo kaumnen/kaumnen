@@ -5,7 +5,7 @@
 
 -----------------------------------
 
-![Metrics](/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/kaumnen?template=classic&rss=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&rss=false&rss.source=https%3A%2F%2Fakom.me%2Frss.xml&rss.limit=4&config.timezone=Europe%2FBudapest)
 
 [![Metrics](https://github.com/kaumnen/kaumnen/actions/workflows/metrics.yml/badge.svg)](https://github.com/kaumnen/kaumnen/actions/workflows/metrics.yml)
 
