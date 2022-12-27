@@ -26,7 +26,7 @@ jobs:
 
           # Options
           user: kaumnen
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           config_display: columns
           config_octicon: yes
