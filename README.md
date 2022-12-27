@@ -2,22 +2,10 @@
 
 - ⚡Currently learning backend via NodeJS along with some cloud tech and systems
 - 📫 How to reach me: [E-Mail](mailto:komnenovic@pm.me), [LinkedIn](https://www.linkedin.com/in/kaumnen/)
------------------------------------
-### 📊 Latest Activity
-<!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kaumnen/RedditTweetz](https://github.com/kaumnen/RedditTweetz)
-2. ⭐ Starred [AmbiML/sparrow-manifest](https://github.com/AmbiML/sparrow-manifest)
-3. 🔱 Forked [kaumnen/GitHubGraduation-2022](https://github.com/kaumnen/GitHubGraduation-2022) from [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
-4. 🎉 Merged PR [#1](https://github.com/kaumnen/url-shortener-backend/pull/1) in [kaumnen/url-shortener-backend](https://github.com/kaumnen/url-shortener-backend)
-5. ⭐ Starred [lynnlangit/learning-quantum](https://github.com/lynnlangit/learning-quantum)
-<!--RECENT_ACTIVITY:end-->
-
-[![Latest Activity](https://github.com/kaumnen/kaumnen/actions/workflows/recent-activity.config.yml/badge.svg)](https://github.com/kaumnen/kaumnen/actions/workflows/recent-activity.config.yml)
 
 -----------------------------------
-![Metrics](https://github.com/kaumnen/kaumnen/blob/main/github-metrics.svg)
 
-[![Metrics](https://github.com/kaumnen/kaumnen/actions/workflows/metrics.yml/badge.svg)](https://github.com/kaumnen/kaumnen/actions/workflows/metrics.yml)
+![Metrics](https://metrics.lecoq.io/kaumnen?template=terminal&lines=1&rss=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&rss=false&rss.source=https%3A%2F%2Fakom.me%2Frss.xml&rss.limit=4&config.timezone=Europe%2FBudapest&config.octicon=true&config.display=columns)
 
 -----------------------------------
 ### 📝 Latest blog posts:
