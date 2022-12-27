@@ -28,13 +28,7 @@ jobs:
           user: kaumnen
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: columns
-          config_octicon: yes
           config_timezone: Europe/Budapest
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
           plugin_rss: yes
-          plugin_rss_limit: 3
+          plugin_rss_limit: 4
           plugin_rss_source: https://akom.me/rss.xml
