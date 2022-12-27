@@ -36,5 +36,5 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_rss: yes
-          plugin_rss_limit: 4
+          plugin_rss_limit: 3
           plugin_rss_source: https://akom.me/rss.xml
