@@ -1,8 +1,5 @@
 ### 🖥️ Hey there!
 
-- ⚡Currently learning backend via NodeJS along with some cloud tech and systems
-- 📫 How to reach me: [E-Mail](mailto:komnenovic@pm.me), [LinkedIn](https://www.linkedin.com/in/kaumnen/)
-
 -----------------------------------
 
 ![Metrics](https://metrics.lecoq.io/kaumnen?template=classic&rss=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&rss=false&rss.source=https%3A%2F%2Fakom.me%2Frss.xml&rss.limit=4&config.timezone=Europe%2FBudapest)
